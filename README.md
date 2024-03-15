@@ -3,7 +3,7 @@
 <br/>  
   
 
-- 📍 Currently based on France, and soon in Switzerland !  
+- 📍 Currently based in France, and soon in Switzerland !  
   
 
 - 👩‍💻 Student in engineering school at EFREI Paris  
