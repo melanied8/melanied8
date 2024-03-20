@@ -1,7 +1,12 @@
 ### <div align="center">Hi! I'm Mélanie, a full-stack developer, specializing in front-end 🚀</div>  
 
-<br/>  
-  
+<br/>
+
+#### Personal website : https://melanie-dang.netlify.app
+
+<br/>
+
+A few things about me :
 
 - 📍 Currently based in France, and soon in Switzerland !  
   
