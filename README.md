@@ -2,16 +2,16 @@
 
 <br/>
 
-#### Personal website : https://melanie-dang.netlify.app
+#### Personal website : [https://melanie-dang.netlify.app](https://melanie-dang.vercel.app/)
 
 <br/>
 
 A few things about me :
 
-- 📍 Currently based in France, and soon in Switzerland !  
+- 📍 Based in Switzerland
   
 
-- 👩‍💻 Student in engineering school at EFREI Paris  
+- 👩‍💻 Graduated of EFREI Paris engineering school
   
 
 - 🌱 I’m currently learning Kubernetes and Docker  
