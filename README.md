@@ -1,4 +1,4 @@
-### <div align="center">Hi! I'm Mélanie, a full-stack developer, specializing in front-end 🚀</div>  
+### <div align="center">Hi! I'm Mélanie, a full-stack developer 🚀</div>  
 
 <br/>
 
